@@ -1,4 +1,4 @@
-# Calculadora de Combustivel
+# Calculadora de Combustivel ⛽
 
 <p>Projeto em Python guiado pela plataforma DevMedia.</p>
 
